@@ -3,3 +3,8 @@ h1 {
     text-align: center;
     border: solid black 
 }
+h2 {
+    color: red;
+    text-align: center;
+    border: dotted rgb(199, 231, 14) 
+}
